@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpbulloch5
 - 👀 I’m interested in ... coding like a boss!
-- 🌱 I’m currently learning ... DevOps with Python
+- 🌱 I’m currently learning ... DevOps with Python, Azure DevOps, Ansible, Bash, and Docker
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... JPBulloch@pm.me
 
